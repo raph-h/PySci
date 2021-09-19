@@ -1,0 +1,4 @@
+Take note that there is an options.txt Files
+This file can be used to change settings in the game
+There is also a load tutorial button in the game to teach you how to play the game
+Just simply click on the load tutorial button to open the tutorial

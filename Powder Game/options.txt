@@ -1,0 +1,6 @@
+# Fps cap is recommended to be 30
+fps_cap 30
+# Pixel size is recommended to be 6, change it higher if it is running too slowly and change it lower if wanting to run more
+pixel_size 6
+# Best to keep at 1 for best performance, max should be 2, more than that, it will not work as intended
+brush_size 1
